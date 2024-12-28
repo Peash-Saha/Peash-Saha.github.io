@@ -199,7 +199,7 @@ ul.wmuSliderPagination {
 	float:left;
 }
 .services-section{
-	padding:5em;
+	padding:10em;
 }
 .services-header{
 	text-align: center;
@@ -218,9 +218,9 @@ ul.wmuSliderPagination {
 	color: #F0C514;
 }
 .services-header p{
-	line-height: 1em;
-	font-size: 20px;
-	color: #050505;
+	line-height: 1.5em;
+	font-size: 15px;
+	color: #7e7e7e;
 	padding: 5px;
 }
 .services-sectiongrids {
