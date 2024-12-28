@@ -139,12 +139,12 @@ nav a:focus {
 }
 /* Default Skin */
 .banner_center {
-	width: 100%;
+	width: 70%;
 	position: absolute;
 	top: 40%;
 	left: 25%;
 	text-align: center;
-
+	margin: 0 auto;
 }
 .banner_center h1 {
 	color: blue;
