@@ -139,10 +139,10 @@ nav a:focus {
 }
 /* Default Skin */
 .banner_center {
-	width: 70%;
+	width: 500px;
 	position: absolute;
 	top: 40%;
-	left: 25%;
+	left: 40%;
 	text-align: center;
 	margin: 0 auto;
 }
@@ -164,6 +164,7 @@ nav a:focus {
 	color: #ef664d;
 	font-weight: 900;
 }
+table {border: none;}
 .wmuSliderPagination {
 	z-index: 2;
 	position: absolute;
