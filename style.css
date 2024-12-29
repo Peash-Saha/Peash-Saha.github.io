@@ -55,6 +55,7 @@ body{
 }
 .top-menu{
 	float:right;
+	position:fixed;
 }
 .top-menu ul li{
 	display: inline-block;
@@ -200,6 +201,7 @@ ul.wmuSliderPagination {
 }
 .services-section{
 	padding:3em 0;
+	margin-top: 50px;
 }
 .services-header{
 	text-align: center;
