@@ -78,7 +78,7 @@ body{
 	font-weight: 600;
 }
 nav a {
-	position: relative;
+	position: fixed;
 	display: inline-block;
 	outline: none;
 	color: #fff;
