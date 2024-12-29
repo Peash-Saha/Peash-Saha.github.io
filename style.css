@@ -55,7 +55,6 @@ body{
 }
 .top-menu{
 	float:right;
-	position:relative;
 }
 .top-menu ul li{
 	display: inline-block;
