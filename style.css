@@ -239,6 +239,9 @@ ul.wmuSliderPagination {
 	color: #7e7e7e;
 	padding: 0px;
 }
+.no-bullet, .no-bullet li {
+        list-style-type:none;
+    }
 .arrow1 {
 	padding-top: 30px;
 	text-align: center;
